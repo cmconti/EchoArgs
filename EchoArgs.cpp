@@ -1,5 +1,6 @@
 // EchoArgs.cpp : This file contains the 'main' function. Program execution begins and ends there.
 //
+// modified from JLBorges post at https://cplusplus.com/forum/beginner/211100/#msg989309
 
 #include <iostream>
 #include <algorithm>
